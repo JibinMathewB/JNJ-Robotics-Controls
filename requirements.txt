@@ -1,0 +1,6 @@
+# Robotics & Controls Simulation
+# Python dependencies
+
+numpy
+matplotlib
+jupyter
